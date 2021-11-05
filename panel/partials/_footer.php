@@ -1,0 +1,3 @@
+<footer class="footer d-flex flex-column flex-md-row align-items-center justify-content-between">
+				<p class="text-muted text-center text-md-left">Copyright © 2021 <a href="https://www.linkedin.com/in/daniyal-khan-296b29177/" target="_blank">Daniyal Khan</a> & <a href="https://www.linkedin.com/in/daniyal-khan-296b29177/" target="_blank">Muhammad Mubeen</a></a>. All rights reserved</p>
+				</footer>
